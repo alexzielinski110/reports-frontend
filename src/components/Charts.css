@@ -1,0 +1,50 @@
+.google-visualization-controls-rangefilter, .google-visualization-controls-categoryfilter {
+    display: inline;
+}
+
+.google-visualization-controls-rangefilter > div, .google-visualization-controls-categoryfilter > div {
+    display: inline;
+}
+
+.google-visualization-controls-label {
+    margin-top: 2px;
+}
+
+.google-visualization-table, .google-visualization-table-table {
+    width: 100%
+}
+
+.MuiContainer-maxWidthLg > div {
+    height: auto !important;
+}
+
+.ReactTags__tag {
+    border: 1px solid gray;
+    border-radius: 2px;
+    padding: 0 2px 5px 2px;
+    margin-right: 3px;
+}
+
+.ReactTags__remove {
+    margin-left: 3px;
+    cursor: pointer;
+}
+
+.ReactTags__tagInput
+{
+    margin-top: 4px;
+}
+
+.ReactTags__tagInputField {
+    width: 100%;
+}
+
+#point, #age, #gender {
+    display: inline;
+    margin: 10px;
+}
+
+#reactgooglegraph-1 {
+    margin-top: 10px;
+    border: 1px solid black;
+}
